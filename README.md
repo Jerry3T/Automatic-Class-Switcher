@@ -1,5 +1,4 @@
 # Automatic-Class-Switcher
-fdshfgsdjfhsljhfnsjkdfdsf
 
 Source code is in the py file, executable for people who don't have Python installed.
 
