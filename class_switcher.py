@@ -155,8 +155,8 @@ def urltimeclick():
 
 def adayorbdaywindows():
     global tkwidth, tkheight, xcord, ycord
-    tkwidth = 600
-    tkheight = 200
+    tkwidth = 590
+    tkheight = 225
     screen_width = (root).winfo_screenwidth()
     screen_height = (root).winfo_screenheight()
     xcord = (screen_width/2) - (tkwidth/2)
