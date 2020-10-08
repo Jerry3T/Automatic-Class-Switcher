@@ -303,13 +303,11 @@ def loop():
         printed_time = current_time.strftime("%H:%M")
         if teller == "A":
             for count,i in enumerate(adaytimelist):
-                print(i, adayurllist, count)
                 if i == printed_time:
                     webbrowser.open(adayurllist[count])
                     time.sleep(61)
         if teller == "B":
             for sount,i in enumerate(bdaytimelist):
-                print(sount, i, bdayurllist)
                 if i == printed_time:
                     webbrowser.open(bdayurllist[sount])
                     time.sleep(61)
