@@ -46,7 +46,6 @@ def loader():
             adaytimelist.append(trueadvtime1)
             bdayurllist.append(trueadvurl1)
             bdaytimelist.append(trueadvtime1)
-
         elif yeet == "2":
             trueadvurl1 = handler.readline()[5:].rstrip()
             trueadvtime1 = handler.readline()[5:].rstrip()
