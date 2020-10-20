@@ -10,6 +10,4 @@ Put in your Google Meet URLS & the times for each class/block (pls use 24 hrs fo
 
 When you put in your times + urls, they're stored in the "dumpfile.txt" file. This is so you don't have type them in everytime.
 
-I would recommend placing the executable in a folder so that when the file is created, they both are already organized.
-
 Thanks for using
